@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "port": "3456",
+    "use_ws": true,
+    "db": "boltdb",
+    "db_file": "bolt.db",
+    "proof_bits": 3,
+    "proof_max": 100
+}
